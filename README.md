@@ -65,11 +65,15 @@ The methodology for perplexity estimation has undergone several refinements. Bim
 However, while perplexity effectively measures syntactic fluency, it does not evaluate coherence, factuality, or contextual accuracy, making it insufficient for assessing LLMs deployed in high-stakes applications such as legal or medical AI (Huang & Rust, 2022). Nonetheless, it remains a critical tool for language model benchmarking, hyperparameter tuning, and domain adaptation in NLP research.
 
 ### 4.1 Understanding Perplexity
-Perplexity is computed as the exponentiated average negative log-likelihood of a sequence of words, given a language model. Formally, for a language model with probability distribution P(w1, w2, ..., wN ) over a sequence of N words:
 
-\[ PP(W) = P(w1, w2, ..., wN)^{\frac{1}{N}} \]
+Perplexity is computed as the exponentiated average negative log-likelihood of a sequence of words, given a language model. Formally, for a language model with probability distribution $P(w_1, w_2, ..., w_N)$ over a sequence of $N$ words:
+
+$$
+PP(W) = P(w_1, w_2, ..., w_N)^{\frac{1}{N}}
+$$
 
 A lower perplexity score indicates a better-performing model, as it assigns higher probabilities to observed word sequences, implying improved fluency and predictive accuracy. Conversely, a higher perplexity score signals greater uncertainty in word prediction, reflecting weaker model performance.
+
 
 ### 4.2 Application in Evaluating LLMs
 Perplexity serves multiple roles in LLM evaluation, training diagnostics, and domain adaptation, making it a valuable benchmarking tool in NLP research.
