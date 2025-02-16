@@ -34,8 +34,6 @@ Transparency in LLMs involves clear documentation of training data sources, mode
 - **Regulatory and Ethical Compliance** – Transparent documentation aligns LLMs with GDPR, CCPA, and AI safety standards, ensuring responsible AI deployment (Smith, 2023).
 - **User Trust and Adoption** – A transparent system builds confidence, particularly in high-risk domains such as healthcare and legal AI (Huang & Fu, 2022).
 
-# The Quest for Trust
-
 ## 3 The Quest for Trust
 Building trust in LLMs requires a comprehensive assessment of model performance, fairness, and adaptability (Chung, 2020). Trustworthiness depends on accurate, ethical, and context-aware model behavior.
 
