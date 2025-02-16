@@ -577,71 +577,66 @@ By bridging the gap between advanced AI methodologies and real-world application
 
 ## References
 
-Almeida, M. (2019). Word embeddings: A survey. Computer Speech & Language.      
-Alvarez-Melis, D., & Jaakkola, T. (2018). On the Robustness of Interpretability Methods. arXiv preprint arXiv:1806.08049.      
-Annett, J. (2013). Transfer of Training: A Review of Research and Practical Implications. Human Resource Management.      
-Bellamy, R., Dey, K., & Kannan, K. (2018). AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias. Proceedings of the 2018 Conference on Fairness, Accountability, and Transparency.      
-Bimbot, F. (1997). An alternative scheme for perplexity estimation. Interspeech.      
-Bimbot, F., & Allauzen, A. (2001). An alternative scheme for perplexity estimation and its assessment for the evaluation of language models. Interspeech.      
-Blagec, K., & Schlangen, D. (2022). A global analysis of metrics used for measuring performance in natural language processing. arXiv preprint arXiv:2201.01152.      
-Box, G. E. P. (1976). Robustness in the Strategy of Scientific Model Building. In Robustness in Statistics.      
-Brown, T. B., Mann, B., & Ryder, N. (2020). Language Models are Few-Shot Learners. arXiv preprint arXiv:2005.14165.      
-Bruner, J. S., & Postman, L. (1957). On the perception of incongruity: A paradigm. Journal of Personality.      
-Caton, S., & Haas, C. (2020). Fairness in Machine Learning: A Survey. arXiv preprint arXiv:2010.04053.      
-Chen, P.-Y., & Hsieh, C.-Y. (2020). Holistic Adversarial Robustness of Deep Learning Models. arXiv preprint arXiv:2002.03418.      
-Cheng, Y., & Xie, L. (2019). Few-shot Learning with Meta Metric Learners. arXiv preprint arXiv:1911.12264.      
-Corbett-Davies, S., & Goel, S. (2018). The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning. Communications of the ACM.      
-Critchlow, D. E. (1990). Probability models on rankings. Journal of Classification.      
-Dinakarrao, S. M. P., & Prasad, M. (2021). Efficient Utilization of Adversarial Training towards Robust Machine Learners and its Analysis. arXiv preprint arXiv:2103.15285.      
-Dong, Y., & Liao, F. (2020). Benchmarking Adversarial Robustness. arXiv preprint arXiv:2010.04825.      
-Donovan, P., & Radosevich, D. J. (2001). The learning transfer system approach to estimating the benefits of training: Empirical evidence. Journal of Applied Psychology.      
-Ford, N., & Gilmer, J. (2019). Adversarial Examples Are a Natural Consequence of Test Error in Noise. arXiv preprint arXiv:1906.09555.      
-Francopoulo, G., & George, M. (2008). Lexical Markup Framework (LMF) for NLP Multilingual Resources. Language Resources and Evaluation.      
-Gao, F., & Liu, Z. (2022). SKILL: Structured Knowledge Infusion for Large Language Models. Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.      
-Gao, F., & Zhu, Z. (2023). Large Language Models on Wikipedia-Style Survey Generation: An Evaluation in NLP Concepts. arXiv preprint arXiv:2305.13687.      
-Goel, K., & Swayamdipta, S. (2021). Robustness Gym: Unifying the NLP Evaluation Landscape. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics.      
-Golland, P., & Fischl, B. (2003). Permutation Tests for Classification: Towards Statistical Significance in Image-Based Studies. IEEE Transactions on Medical Imaging.      
-Gou, Z., & Wang, W. (2023). CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing. arXiv preprint arXiv:2301.13768.      
-Goyal, S., & Gupta, P. (2021). A Survey of Adversarial Defences and Robustness in NLP. arXiv preprint arXiv:2104.08654.      
-Grosse, K., & Papernot, N. (2017). On the (Statistical) Detection of Adversarial Examples. arXiv preprint arXiv:1702.06280.      
-Hajian, S., & Meyer, G. (2020). Transfer of Learning and Teaching: A Review of Transfer Theories and Effective Instructional Practices. Journal of Education.      
-Hassan, M. M., & Succi, G. (2020). Testability and Software Robustness: A Systematic Literature Review. Journal of Systems and Software.      
-Hothorn, T., & Lausen, B. (2006). A Lego System for Conditional Inference. Journal of Computational and Graphical Statistics.      
-Huang, B., & Fu, W. (2019). Analytical robustness assessment for robust design. Computers & Operations Research.      
-Huang, X., & Wang, J. (2023). A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation. arXiv preprint arXiv:2302.06164.      
-Jiang, W., & Liang, L. (2019). Multi-Scale Metric Learning for Few-Shot Learning. arXiv preprint arXiv:1905.13544.      
-Karabacak, M., & Etemad, A. (2023). Embracing Large Language Models for Medical Applications: Opportunities and Challenges. arXiv preprint arXiv:2305.11167.      
-Kim, S.-W., & Lee, J. (2020). Validation of an evaluation model for learning management systems. Computers & Education.      
-Liao, Q., & Binns, R. (2023). AI Transparency in the Age of LLMs: A Human-Centered Research Roadmap. arXiv preprint arXiv:2303.08232.      
-Liu, Y., & Wang, T. (2023). Trustworthy LLMs: A Survey and Guideline for Evaluating Large Language Models’ Alignment. arXiv preprint arXiv:2301.06422.      
-Liu, Y., & Zhang, Y. (2019). Latent space cartography: A method for describing semantic dimensions in high-dimensional data. Journal of Machine Learning Research.      
-Liu, Z., & Park, D. (2023). Evaluating Large Language Models for Radiology Natural Language Processing. arXiv preprint arXiv:2305.12485.      
-Maegaard, B., & Choukri, K. (2007). Evaluation of NLP systems. Language Resources and Evaluation.      
-Mehrabi, N., & Morstatter, F. (2019). A Survey on Bias and Fairness in Machine Learning. arXiv preprint arXiv:1908.09635.      
-Mekala, D., & Dingliwal, M. (2021). ZEROTOP: Zero-Shot Task-Oriented Semantic Parsing using Large Language Models. arXiv preprint arXiv:2109.07098.      
-Meng, Y., & He, D. (2022). Generating Training Data with Language Models: Towards Zero-Shot Language Understanding. arXiv preprint arXiv:2204.01232.      
-Miaschi, A., & Brunato, D. (2021). What Makes My Model Perplexed? A Linguistic Investigation on Neural Language Models Perplexity. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP).      
-Neal, J., & Liu, H. (2021). An Evaluation Methodology for Natural Language Processing Systems. arXiv preprint arXiv:2101.01026.      
-Nguyen, C. V., & Tay, Y. (2020). LEEP: A New Measure to Evaluate Transferability of Learned Representations. arXiv preprint arXiv:2003.04271.      
-Olsen, J. H. Jr., & McAllister, S. M. (2016). The Evaluation and Enhancement of Training Transfer. Journal of Applied Psychology.      
-Oreshkin, B. N., & Ollivier, Y. (2018). TADAM: Task Dependent Adaptive Metric for Improved Few-Shot Learning. arXiv preprint arXiv:1805.10123.      
-Peng, B., & Li, J. (2020). Few-shot Natural Language Generation for Task-Oriented Dialog. arXiv preprint arXiv:2010.06215.      
-Peng, B., & Poesia, G. (2023). Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback. arXiv preprint arXiv:2304.12421.      
-Pessach, D., & Shmueli, E. (2022). Algorithmic Fairness. arXiv preprint arXiv:2201.11667.      
-Pimm, C., & Sanders, L. (2017). Natural Language Processing (NLP) tools for the analysis of incident and accident reports. Safety Science.      
-Puchert, P., & Kirchhoff, T. (2023). LLMMaps: A Visual Metaphor for Stratified Evaluation of Large Language Models. arXiv preprint arXiv:2303.13562.      
-Puri, R., & Catanzaro, B. (2019). Zero-shot Text Classification With Generative Language Models. arXiv preprint arXiv:1906.08301.      
-Ruder, S., & Peters, M. (2017). A survey on word embeddings. arXiv preprint arXiv:1706.05020.      
-Saul, L. K., & Roweis, S. T. (2001). Locally linear embedding for analyzing high-dimensional data. Science.      
-Simon, C., & Lampert, C. (2020). Adaptive Subspaces for Few-Shot Learning. arXiv preprint arXiv:2006.07889.      
-Sundareswara, R., & Schrater, P. (2008). Perceptual multistability predicted by search model for Bayesian decisions. Journal of Vision.      
-Tang, L., & Xu, Y. (2023). Evaluating Large Language Models on Medical Evidence Summarization. arXiv preprint arXiv:2303.10486.      
-Tang, W., & Wang, J. (2020). Interpretable Time-series Classification on Few-shot Samples. arXiv preprint arXiv:2007.13855.      
-Triantafillou, E., & Zemel, R. (2021). Few-shot Learning Through an Information Retrieval Lens. arXiv preprint arXiv:2102.06620.      
-Wang, W., & Ji, Z. (2021). Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models. arXiv preprint arXiv:2109.07359.      
-Wang, W., & Zhou, L. (2022). A Survey on Adversarial Attacks and Defenses in Text. arXiv preprint arXiv:2203.04995.      
-Zhao, X., & Lau, J. H. (2020). Pre-trained Language Models Can be Fully Zero-Shot Learners. arXiv preprint arXiv:2011.10566.      
-Zhong, R., & Tang, J. (2021). Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections. arXiv preprint arXiv:2106.01769.      
-Zhu, Z., & Gupta, A. (2020). Transfer Learning in Deep Reinforcement Learning: A Survey. IEEE Transactions on Neural Networks and Learning Systems.      
-
-
+Almeida, F., & Xexéo, G. (2019). Word embeddings: A survey. arXiv preprint arXiv:1901.09069. https://doi.org/10.48550/arXiv.1901.09069    
+Alvarez-Melis, D., & Jaakkola, T. (2018). On the Robustness of Interpretability Methods. arXiv preprint arXiv:1806.08049. https://doi.org/10.48550/arXiv.1806.08049     
+Annett, J. (2013). Transfer of Training: A Review of Research and Practical Implications. Human Resource Management. https://doi.org/10.1080/1355800850220203    
+Bellamy, R., Dey, K., & Kannan, K. (2018). AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias. Proceedings of the 2018 Conference on Fairness, Accountability, and Transparency. https://doi.org/10.1147/JRD.2019.2942287    
+Bimbot, F. (1997). An alternative scheme for perplexity estimation. Interspeech. https://doi.org/10.1109/ICASSP.1997.596230     
+Bimbot, F., & Allauzen, A. (2001). An alternative scheme for perplexity estimation and its assessment for the evaluation of language models. Interspeech. https://doi.org/10.1006/csla.2000.0150     
+Blagec, K., & Schlangen, D. (2022). A global analysis of metrics used for measuring performance in natural language processing. arXiv preprint arXiv:2201.01152. https://doi.org/10.48550/arXiv.2201.01152     
+Box, G. E. P. (1976). Robustness in the Strategy of Scientific Model Building. In Robustness in Statistics. https://doi.org/10.1016/B978-0-12-438150-6.50018-2     
+Brown, T. B., Mann, B., & Ryder, N. (2020). Language Models are Few-Shot Learners. arXiv preprint arXiv:2005.14165.     
+Bruner, J. S., & Postman, L. (1957). On the perception of incongruity: A paradigm. Journal of Personality.     
+Caton, S., & Haas, C. (2020). Fairness in Machine Learning: A Survey. arXiv preprint arXiv:2010.04053. https://doi.org/10.1145/3616865     
+Chen, P.-Y., & Hsieh, C.-Y. (2020). Holistic Adversarial Robustness of Deep Learning Models. arXiv preprint arXiv:2002.03418. https://doi.org/10.48550/arXiv.2202.07201     
+Cheng, Y., & Xie, L. (2019). Few-shot Learning with Meta Metric Learners. arXiv preprint arXiv:1911.12264. https://doi.org/10.48550/arXiv.1901.09890     
+Corbett-Davies, S., & Goel, S. (2018). The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning. Communications of the ACM. https://doi.org/10.48550/arXiv.1808.00023     
+Critchlow, D. E. (1990). Probability models on rankings. Journal of Classification. https://doi.org/10.1016/0022-2496(91)90050-4    
+Dinakarrao, S. M. P., & Prasad, M. (2021). Efficient Utilization of Adversarial Training towards Robust Machine Learners and its Analysis. arXiv preprint arXiv:2103.15285.     
+Dong, Y., & Liao, F. (2020). Benchmarking Adversarial Robustness. arXiv preprint arXiv:2010.04825. https://doi.org/10.48550/arXiv.1912.11852     
+Donovan, P., & Radosevich, D. J. (2001). The learning transfer system approach to estimating the benefits of training: Empirical evidence. Journal of Applied Psychology. https://www.emerald.com/insight/content/doi/10.1108/eum0000000005447/full/html    
+Ford, N., & Gilmer, J. (2019). Adversarial Examples Are a Natural Consequence of Test Error in Noise. arXiv preprint arXiv:1906.09555. https://doi.org/10.48550/arXiv.1901.10513     
+Francopoulo, G., George, M., Calzolari, N., Monachini, M., Bel, N., Pet, M., & Soria, C. (2006). Lexical markup framework (LMF). In International Conference on Language Resources and Evaluation-LREC 2006.     
+Gao, F., & Liu, Z. (2022). SKILL: Structured Knowledge Infusion for Large Language Models. Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.     
+Gao, F., & Zhu, Z. (2023). Large Language Models on Wikipedia-Style Survey Generation: An Evaluation in NLP Concepts. arXiv preprint arXiv:2305.13687. https://doi.org/10.48550/arXiv.2308.10410     
+Goel, K., & Swayamdipta, S. (2021). Robustness Gym: Unifying the NLP Evaluation Landscape. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics. https://doi.org/10.48550/arXiv.2101.04840     
+Golland, P., & Fischl, B. (2003). Permutation Tests for Classification: Towards Statistical Significance in Image-Based Studies. IEEE Transactions on Medical Imaging. https://doi.org/10.1007/978-3-540-45087-0_28     
+Gou, Z., & Wang, W. (2023). CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing. arXiv preprint arXiv:2301.13768. https://doi.org/10.48550/arXiv.2305.11738     
+Goyal, S., & Gupta, P. (2021). A Survey of Adversarial Defences and Robustness in NLP. arXiv preprint arXiv:2104.08654. https://doi.org/10.48550/arXiv.2203.06414    
+Grosse, K., & Papernot, N. (2017). On the (Statistical) Detection of Adversarial Examples. arXiv preprint arXiv:1702.06280. https://doi.org/10.48550/arXiv.1702.06280    
+Hajian, S., & Meyer, G. (2020). Transfer of Learning and Teaching: A Review of Transfer Theories and Effective Instructional Practices. Journal of Education. https://eric.ed.gov/?id=EJ1217940     
+Hassan, M. M., & Succi, G. (2020). Testability and Software Robustness: A Systematic Literature Review. Journal of Systems and Software. https://doi.org/10.1109/SEAA.2015.47     
+Hothorn, T., & Lausen, B. (2006). A Lego System for Conditional Inference. Journal of Computational and Graphical Statistics. https://doi.org/10.1198/000313006X118430     
+Huang, B., & Fu, W. (2019). Analytical robustness assessment for robust design. Computers & Operations Research. https://doi.org/10.1007/s00158-006-0068-0     
+Huang, X., & Wang, J. (2023). A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation. arXiv preprint arXiv:2302.06164. https://doi.org/10.48550/arXiv.2305.11391     
+Jiang, W., & Liang, L. (2019). Multi-Scale Metric Learning for Few-Shot Learning. arXiv preprint arXiv:1905.13544.     
+Karabacak, M., & Etemad, A. (2023). Embracing Large Language Models for Medical Applications: Opportunities and Challenges. arXiv preprint arXiv:2305.11167. https://doi.org/10.7759/cureus.39305    
+Kim, S.-W., & Lee, J. (2020). Validation of an evaluation model for learning management systems. Computers & Education. https://doi.org/10.1111/j.1365-2729.2007.00260.x     
+Liao, Q., & Binns, R. (2023). AI Transparency in the Age of LLMs: A Human-Centered Research Roadmap. arXiv preprint arXiv:2303.08232. https://doi.org/10.48550/arXiv.2306.01941     
+Liu, Y., & Wang, T. (2023). Trustworthy LLMs: A Survey and Guideline for Evaluating Large Language Models’ Alignment. arXiv preprint arXiv:2301.06422. https://doi.org/10.48550/arXiv.2308.05374     
+Liu, Y., & Zhang, Y. (2019). Latent space cartography: A method for describing semantic dimensions in high-dimensional data. Journal of Machine Learning Research. https://doi.org/10.1111/cgf.13672     
+Liu, Z., & Park, D. (2023). Evaluating Large Language Models for Radiology Natural Language Processing. arXiv preprint arXiv:2305.12485. https://doi.org/10.48550/arXiv.2307.13693     
+Maegaard, B., & Choukri, K. (2007). Evaluation of NLP systems. Language Resources and Evaluation. https://aclanthology.org/C96-2170.pdf    
+Mehrabi, N., & Morstatter, F. (2019). A Survey on Bias and Fairness in Machine Learning. arXiv preprint arXiv:1908.09635. https://doi.org/10.48550/arXiv.1908.09635     
+Mekala, D., & Dingliwal, M. (2021). ZEROTOP: Zero-Shot Task-Oriented Semantic Parsing using Large Language Models. arXiv preprint arXiv:2109.07098. https://doi.org/10.48550/arXiv.2212.10815     
+Meng, Y., & He, D. (2022). Generating Training Data with Language Models: Towards Zero-Shot Language Understanding. arXiv preprint arXiv:2204.01232. https://doi.org/10.48550/arXiv.2202.04538     
+Miaschi, A., & Brunato, D. (2021). What Makes My Model Perplexed? A Linguistic Investigation on Neural Language Models Perplexity. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). https://doi.org/10.18653/v1/2021.deelio-1.5     
+Neal, J., & Liu, H. (2021). An Evaluation Methodology for Natural Language Processing Systems. arXiv preprint arXiv:2101.01026.     
+Nguyen, C. V., & Tay, Y. (2020). LEEP: A New Measure to Evaluate Transferability of Learned Representations. arXiv preprint arXiv:2003.04271. https://doi.org/10.48550/arXiv.2002.12462     
+Olsen, J. H. Jr., & McAllister, S. M. (2016). The Evaluation and Enhancement of Training Transfer. Journal of Applied Psychology. https://doi.org/10.1111/1468-2419.00035     
+Oreshkin, B. N., & Ollivier, Y. (2018). TADAM: Task Dependent Adaptive Metric for Improved Few-Shot Learning. arXiv preprint arXiv:1805.10123. https://doi.org/10.48550/arXiv.1805.10123     
+Peng, B., & Li, J. (2020). Few-shot Natural Language Generation for Task-Oriented Dialog. arXiv preprint arXiv:2010.06215. https://doi.org/10.48550/arXiv.2002.12328     
+Peng, B., & Poesia, G. (2023). Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback. arXiv preprint arXiv:2304.12421. https://doi.org/10.48550/arXiv.2302.12813     
+Pessach, D., & Shmueli, E. (2022). Algorithmic Fairness. arXiv preprint arXiv:2201.11667. https://doi.org/10.48550/arXiv.2001.09784     
+Pimm, C., & Sanders, L. (2017). Natural Language Processing (NLP) tools for the analysis of incident and accident reports. Safety Science. https://shs.hal.science/halshs-00953658/     
+Puchert, P., & Kirchhoff, T. (2023). LLMMaps: A Visual Metaphor for Stratified Evaluation of Large Language Models. arXiv preprint arXiv:2303.13562. https://doi.org/10.48550/arXiv.2304.00457     
+Puri, R., & Catanzaro, B. (2019). Zero-shot Text Classification With Generative Language Models. arXiv preprint arXiv:1906.08301. https://doi.org/10.48550/arXiv.1912.10165    
+Simon, C., & Lampert, C. (2020). Adaptive Subspaces for Few-Shot Learning. arXiv preprint arXiv:2006.07889. https://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf     
+Sundareswara, R., & Schrater, P. (2008). Perceptual multistability predicted by search model for Bayesian decisions. Journal of Vision. https://doi.org/10.1167/8.5.12     
+Tang, L., & Xu, Y. (2023). Evaluating Large Language Models on Medical Evidence Summarization. arXiv preprint arXiv:2303.10486. https://doi.org/10.1101/2023.04.22.23288967     
+Tang, W., & Wang, J. (2020). Interpretable Time-series Classification on Few-shot Samples. arXiv preprint arXiv:2007.13855. https://doi.org/10.48550/arXiv.2006.02031     
+Triantafillou, E., & Zemel, R. (2021). Few-shot Learning Through an Information Retrieval Lens. arXiv preprint arXiv:2102.06620. https://doi.org/10.48550/arXiv.1707.02610     
+Wang, W., & Ji, Z. (2021). Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models. arXiv preprint arXiv:2109.07359. https://doi.org/10.48550/arXiv.2111.02840     
+Zhao, X., & Lau, J. H. (2020). Pre-trained Language Models Can be Fully Zero-Shot Learners. arXiv preprint arXiv:2011.10566. https://doi.org/10.48550/arXiv.2212.06950     
+Zhong, R., & Tang, J. (2021). Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections. arXiv preprint arXiv:2106.01769. https://doi.org/10.48550/arXiv.2104.04670     
+Zhu, Z., & Gupta, A. (2020). Transfer Learning in Deep Reinforcement Learning: A Survey. IEEE Transactions on Neural Networks and Learning Systems. https://doi.org/10.1109/TPAMI.2023.3292075     
